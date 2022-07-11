@@ -1,0 +1,8 @@
+E:\TYCS-36\Prac3\Prac3\bin\x86\Debug\Prac3.exe
+E:\TYCS-36\Prac3\Prac3\bin\x86\Debug\Prac3.pdb
+E:\TYCS-36\Prac3\Prac3\obj\x86\Debug\Prac3.csprojResolveAssemblyReference.cache
+E:\TYCS-36\Prac3\Prac3\obj\x86\Debug\Prac3.Form1.resources
+E:\TYCS-36\Prac3\Prac3\obj\x86\Debug\Prac3.Properties.Resources.resources
+E:\TYCS-36\Prac3\Prac3\obj\x86\Debug\Prac3.csproj.GenerateResource.Cache
+E:\TYCS-36\Prac3\Prac3\obj\x86\Debug\Prac3.exe
+E:\TYCS-36\Prac3\Prac3\obj\x86\Debug\Prac3.pdb

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="503/src"/>
+	<classpathentry kind="src" path="Caesar Cipher/src"/>
+	<classpathentry kind="src" path="Columnar Technique/src"/>
+	<classpathentry kind="src" path="Monoalphabetic Cipher/src"/>
+	<classpathentry kind="src" path="PRAC1WS/src/java"/>
+	<classpathentry kind="src" path="pract1TestWs/build/generated-sources/jax-ws"/>
+	<classpathentry kind="src" path="pract1TestWs/build/generated/jax-wsCache/TempConverter"/>
+	<classpathentry kind="src" path="pract1TestWs/build/generated/src"/>
+	<classpathentry kind="src" path="pract1TestWs/src/java"/>
+	<classpathentry kind="src" path="Pract2Calculatorws/build/generated-sources/jax-ws"/>
+	<classpathentry kind="src" path="Pract2Calculatorws/build/generated/jax-wsCache/Calculator"/>
+	<classpathentry kind="src" path="Pract2Calculatorws/build/generated/src"/>
+	<classpathentry kind="src" path="Pract2Calculatorws/src/java"/>
+	<classpathentry kind="src" path="Practical1WS/build/generated-sources/jax-ws"/>
+	<classpathentry kind="src" path="Practical1WS/build/generated/jax-wsCache/TempConversion"/>
+	<classpathentry kind="src" path="Practical1WS/build/generated/src"/>
+	<classpathentry kind="src" path="Practical1WS/src/java"/>
+	<classpathentry kind="src" path="RailFence Cipher/src"/>
+	<classpathentry kind="src" path="VernamCipher/src"/>
+	<classpathentry kind="output" path="503/bin"/>
+</classpath>

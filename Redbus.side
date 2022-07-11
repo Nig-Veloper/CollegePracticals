@@ -1,0 +1,162 @@
+{
+  "id": "b69fc62b-59b8-4664-8c19-629560a15de7",
+  "version": "2.0",
+  "name": "Redbus",
+  "url": "https://www.redbus.in",
+  "tests": [{
+    "id": "90058e38-4fb2-4cad-bc1b-21fabd6368d5",
+    "name": "RedBusTest",
+    "commands": [{
+      "id": "c5e633f4-ea49-40b3-8538-b2466aee1204",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f128c5c6-1988-4e03-8090-286342c70a38",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1616x876",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "73b69316-6afe-4f91-8058-90210e7e797c",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "Book Bus Travels, AC Volvo Bus, rPool & Bus Hire - redBus India",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5337d394-ce00-48f3-8da5-190eaaca77b0",
+      "comment": "",
+      "command": "click",
+      "target": "id=src",
+      "targets": [
+        ["id=src", "id"],
+        ["css=#src", "css:finder"],
+        ["xpath=//input[@id='src']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0829a4f3-4497-4a56-85e8-1698a080518b",
+      "comment": "",
+      "command": "type",
+      "target": "id=src",
+      "targets": [
+        ["id=src", "id"],
+        ["css=#src", "css:finder"],
+        ["xpath=//input[@id='src']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Mumbai"
+    }, {
+      "id": "b5a8b7bb-9e76-4799-9b08-41fb93b2b72c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sub-city:nth-child(2)",
+      "targets": [
+        ["css=.sub-city:nth-child(2)", "css:finder"],
+        ["xpath=//section[@id='search']/div/div/div/ul/li[2]", "xpath:idRelative"],
+        ["xpath=//section/div/div/div/ul/li[2]", "xpath:position"],
+        ["xpath=//li[contains(.,'Borivali East, Mumbai')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a5b74817-af6b-4aa1-84fe-1603bde074b1",
+      "comment": "",
+      "command": "type",
+      "target": "id=dest",
+      "targets": [
+        ["id=dest", "id"],
+        ["css=#dest", "css:finder"],
+        ["xpath=//input[@id='dest']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": "MAHABA"
+    }, {
+      "id": "0e9c65b0-8a44-4cce-86af-6f91a19ed720",
+      "comment": "",
+      "command": "click",
+      "target": "css=.selected",
+      "targets": [
+        ["css=.selected", "css:finder"],
+        ["xpath=//section[@id='search']/div/div[2]/div/ul/li", "xpath:idRelative"],
+        ["xpath=//section/div/div[2]/div/ul/li", "xpath:position"],
+        ["xpath=//li[contains(.,'Mahabaleshwar')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "65a50e8c-6fd4-4b53-9272-b8f5d5835dbf",
+      "comment": "",
+      "command": "click",
+      "target": "id=onward_cal",
+      "targets": [
+        ["id=onward_cal", "id"],
+        ["css=#onward_cal", "css:finder"],
+        ["xpath=//input[@id='onward_cal']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div[3]/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c8f6bd9f-8b5f-42c3-9037-917302cdfe5a",
+      "comment": "",
+      "command": "click",
+      "target": "id=search_btn",
+      "targets": [
+        ["id=search_btn", "id"],
+        ["css=#search_btn", "css:finder"],
+        ["xpath=//button[@id='search_btn']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Search Buses')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4e4a4e6e-08eb-40b5-8218-74ec248c569c",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=#\\31 4084445 .travels",
+      "targets": [
+        ["css=#\\31 4084445 .travels", "css:finder"],
+        ["xpath=//li[@id='14084445']/div/div/div/div/div", "xpath:idRelative"],
+        ["xpath=//div[2]/li/div/div/div/div/div", "xpath:position"]
+      ],
+      "value": "Neeta tours and travels"
+    }, {
+      "id": "05dba3b6-b377-4ae2-93a6-e1ad3a8cc387",
+      "comment": "",
+      "command": "storeText",
+      "target": "css=#\\31 4084445 .column-seven .f-19",
+      "targets": [
+        ["css=#\\31 4084445 .column-seven .f-19", "css:finder"],
+        ["xpath=//li[@id='14084445']/div/div/div/div[6]/div/div[2]/span", "xpath:idRelative"],
+        ["xpath=//div[2]/li/div/div/div/div[6]/div/div[2]/span", "xpath:position"],
+        ["xpath=//span[contains(.,'620')]", "xpath:innerText"]
+      ],
+      "value": "price"
+    }, {
+      "id": "ab7007b5-e2e2-45de-8baa-0ea54b1fe497",
+      "comment": "",
+      "command": "echo",
+      "target": "${price}",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "6ad644ff-d8c5-4150-8805-00bf0cecda2f",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["90058e38-4fb2-4cad-bc1b-21fabd6368d5"]
+  }],
+  "urls": ["https://www.redbus.in/"],
+  "plugins": []
+}

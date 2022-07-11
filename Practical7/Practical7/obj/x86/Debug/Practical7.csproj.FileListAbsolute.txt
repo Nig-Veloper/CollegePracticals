@@ -1,0 +1,7 @@
+E:\TYCS-36\Practical7\Practical7\bin\x86\Debug\Practical7.exe
+E:\TYCS-36\Practical7\Practical7\bin\x86\Debug\Practical7.pdb
+E:\TYCS-36\Practical7\Practical7\obj\x86\Debug\Practical7.Form1.resources
+E:\TYCS-36\Practical7\Practical7\obj\x86\Debug\Practical7.Properties.Resources.resources
+E:\TYCS-36\Practical7\Practical7\obj\x86\Debug\Practical7.csproj.GenerateResource.Cache
+E:\TYCS-36\Practical7\Practical7\obj\x86\Debug\Practical7.exe
+E:\TYCS-36\Practical7\Practical7\obj\x86\Debug\Practical7.pdb

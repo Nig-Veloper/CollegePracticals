@@ -1,0 +1,7 @@
+E:\TYCS-36\ChandPeDaag(GP)\ChandPeDaag(GP)\bin\x86\Debug\ChandPeDaag(GP).exe
+E:\TYCS-36\ChandPeDaag(GP)\ChandPeDaag(GP)\bin\x86\Debug\ChandPeDaag(GP).pdb
+E:\TYCS-36\ChandPeDaag(GP)\ChandPeDaag(GP)\obj\x86\Debug\ChandPeDaag_GP_.Form1.resources
+E:\TYCS-36\ChandPeDaag(GP)\ChandPeDaag(GP)\obj\x86\Debug\ChandPeDaag_GP_.Properties.Resources.resources
+E:\TYCS-36\ChandPeDaag(GP)\ChandPeDaag(GP)\obj\x86\Debug\ChandPeDaag(GP).csproj.GenerateResource.Cache
+E:\TYCS-36\ChandPeDaag(GP)\ChandPeDaag(GP)\obj\x86\Debug\ChandPeDaag(GP).exe
+E:\TYCS-36\ChandPeDaag(GP)\ChandPeDaag(GP)\obj\x86\Debug\ChandPeDaag(GP).pdb

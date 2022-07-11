@@ -1,0 +1,8 @@
+E:\TYCS-36\Practical8GameProgramming\Practical8GameProgramming\bin\x86\Debug\Practical8GameProgramming.exe
+E:\TYCS-36\Practical8GameProgramming\Practical8GameProgramming\bin\x86\Debug\Practical8GameProgramming.pdb
+E:\TYCS-36\Practical8GameProgramming\Practical8GameProgramming\obj\x86\Debug\Practical8GameProgramming.csprojResolveAssemblyReference.cache
+E:\TYCS-36\Practical8GameProgramming\Practical8GameProgramming\obj\x86\Debug\Practical8GameProgramming.Form1.resources
+E:\TYCS-36\Practical8GameProgramming\Practical8GameProgramming\obj\x86\Debug\Practical8GameProgramming.Properties.Resources.resources
+E:\TYCS-36\Practical8GameProgramming\Practical8GameProgramming\obj\x86\Debug\Practical8GameProgramming.csproj.GenerateResource.Cache
+E:\TYCS-36\Practical8GameProgramming\Practical8GameProgramming\obj\x86\Debug\Practical8GameProgramming.exe
+E:\TYCS-36\Practical8GameProgramming\Practical8GameProgramming\obj\x86\Debug\Practical8GameProgramming.pdb
